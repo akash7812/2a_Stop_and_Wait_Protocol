@@ -42,7 +42,7 @@ while True:
 
 ## OUTPUT 
 
-![output](<Screenshot 2024-10-17 183222.png>)
+![output](<Screenshot 2024-10-21 194154.png>)
 
 ## RESULT
 Thus, python program to perform stop and wait protocol was successfully executed.
